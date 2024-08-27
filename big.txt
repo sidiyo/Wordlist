@@ -1,3 +1,7 @@
+rm
+RM
+web
+Corpore.Net/Login.aspx
 home/000~ROOT~000/
 000~ROOT~000
 !
