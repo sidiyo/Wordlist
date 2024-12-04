@@ -8,6 +8,7 @@ home/000~ROOT~000/
 !_archives
 !_images
 !backup
+appsettings.json
 !images
 !res
 !textove_diskuse
