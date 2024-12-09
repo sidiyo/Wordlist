@@ -1,5 +1,6 @@
 rm
 RM
+sftp-config.json
 web
 Corpore.Net/Login.aspx
 home/000~ROOT~000/
