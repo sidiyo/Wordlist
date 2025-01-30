@@ -3,6 +3,7 @@ app_dev.php/_profiler/open?file=app/config/parameters.yml
 RM
 sftp-config.json
 web
+telescope
 Corpore.Net/Login.aspx
 home/000~ROOT~000/
 000~ROOT~000
